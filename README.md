@@ -46,4 +46,13 @@ All the models got a great result looking only at Accuracy, but they are getting
 It is a technique that consists of increasing the number of registers of the class with less frequency until the database has a balanced number between the classes of the target variable. In brief, this method will do some distance calculations to generate new synthetic data.
 
 ![sla](https://github.com/jpedrou/DiabetesPrediction/assets/127536464/64aeff65-0a3c-4f64-b685-452b4493ac7c)
+# Conclusion
+As expected, after adding more information about people with diabetes, the results of the models had a big jump, since the data set was extremely balanced. This way, the algorithms were able to identify possible people with the disease much more clearly. But, the best one was **Random Forest**.
+- Accuracy: 97.89%
 
+**Confusion Matrix (Random Forest)**
+  
+![rf](https://github.com/jpedrou/DiabetesPrediction/assets/127536464/0f6383d9-0fc8-4c4e-bae3-6e893fa1a48e)
+
+### Note
+ The new information added in the Dataframe is completely synthetic, which just means that for more efficient results it is important to have more real information about people with diabetes. What was done serves as an insight for the customer or company.
