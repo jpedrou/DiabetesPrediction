@@ -4,6 +4,7 @@ Predict if a person will have Diabetes or not and make an interactive interface 
 
 [streamlit-app-2023-08-28-13-08-67.webm](https://github.com/jpedrou/DiabetesPrediction/assets/127536464/03ea60b1-6e15-492d-b953-373176ef00aa)
 
+### Note
 The application was done with a minimalist design to provide an easy and efficient experience. <br> **You can access the app clicking** [here](https://diabetesapp.streamlit.app/)
 
 ## Creator
@@ -12,7 +13,7 @@ The application was done with a minimalist design to provide an easy and efficie
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width=65 src='https://github.com/jpedrou/DiabetesPrediction/assets/127536464/e159c810-b104-44c7-bba1-86ec218f139e'> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 # About Dataset
-The Diabetes prediction dataset is a collection of medical and demographic data from patients, along with their diabetes status (positive or negative). The data includes features such as age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. This dataset can be used to build machine learning models to predict diabetes in patients based on their medical history and demographic information. This can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans. Additionally, the dataset can be used by researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes.
+The Diabetes prediction dataset is a collection of medical and demographic data from patients, along with their diabetes status (positive or negative). The data includes features such as age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. This dataset can be used to build machine learning models to predict diabetes in patients based on their medical history and demographic information. This can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans. Additionally, the dataset can be used by researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes. [**Credits**](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset).
 
 Columns:
 - `gender`: Gender refers to the biological sex of the individual, which can have an impact on their susceptibility to diabetes. There are three categories in it male ,female and other.
