@@ -1,6 +1,7 @@
-import streamlit as st
-import pickle
 import numpy as np
+import pickle
+import streamlit as st
+st.set_page_config(layout="wide")
 
 col1, col2 = st.columns([0.4, 0.6], gap='large')
 
