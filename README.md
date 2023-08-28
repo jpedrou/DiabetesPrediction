@@ -31,6 +31,7 @@ Columns:
 This database is very unbalanced, which means that it has more samples of people without diabetes than with. It can be a problem for the machine learning Models.
 
 **Unbalanced data**
+
 ![g](https://github.com/jpedrou/DiabetesPrediction/assets/127536464/7a5967b5-5ed4-4995-9903-a7d6c9d5955f)
 # Model Selection
 As this dataset is big and it is a situation that we need a Precision high level, I chose the 4 models that often get a greate result in this type of case:
