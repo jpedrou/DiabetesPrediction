@@ -5,7 +5,7 @@ Predict if a person will have Diabetes or not and make an interactive interface 
 [streamlit-app-2023-08-28-13-08-67.webm](https://github.com/jpedrou/DiabetesPrediction/assets/127536464/03ea60b1-6e15-492d-b953-373176ef00aa)
 
 ### Note
-The application was done with a minimalist design to provide an easy and efficient experience. <br> **You can access the app clicking** [here](https://diabetesapp.streamlit.app/)
+The application was made with a minimalist design to provide an easy and efficient experience. <br> **You can access the app clicking** [here](https://diabetesapp.streamlit.app/)
 
 ## Creator
 [@jpedrou](https://github.com/jpedrou)
